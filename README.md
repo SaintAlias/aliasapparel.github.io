@@ -5,8 +5,6 @@
     
 </head>
 
-<title>AliasApparel</title>
-
 <body>
 <div>
 <h1 class="title">Alias Apparel Test Website</h1>
